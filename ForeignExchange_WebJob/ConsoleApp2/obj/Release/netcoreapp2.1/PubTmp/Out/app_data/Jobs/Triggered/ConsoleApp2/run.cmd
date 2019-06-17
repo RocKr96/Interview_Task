@@ -1,0 +1,1 @@
+dotnet ConsoleApp2.dll %*

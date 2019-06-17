@@ -1,0 +1,12 @@
+C:\Users\Aman\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Settings.job
+C:\Users\Aman\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\CryptoExchange.deps.json
+C:\Users\Aman\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\CryptoExchange.runtimeconfig.json
+C:\Users\Aman\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\CryptoExchange.runtimeconfig.dev.json
+C:\Users\Aman\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\CryptoExchange.dll
+C:\Users\Aman\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\CryptoExchange.pdb
+C:\Users\Aman\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CryptoExchange.csprojAssemblyReference.cache
+C:\Users\Aman\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CryptoExchange.csproj.CoreCompileInputs.cache
+C:\Users\Aman\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CryptoExchange.AssemblyInfoInputs.cache
+C:\Users\Aman\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CryptoExchange.AssemblyInfo.cs
+C:\Users\Aman\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CryptoExchange.dll
+C:\Users\Aman\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CryptoExchange.pdb
